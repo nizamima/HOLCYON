@@ -1,0 +1,350 @@
+.clearFix{
+	clear: both;
+}
+.center{
+	text-align:center;
+}
+.inlineBlock{
+	display: inline-block;
+}
+.floatLeft{
+	float: left;
+}
+.floatRight{
+	float: right;
+}
+.line{
+	background: url(img/h1-bg.png) no-repeat center center;
+	height: 50px;
+}
+.simplEmpty1{
+	height:40px;
+}
+.grey{
+	color: grey;
+}
+.displayBlock{
+	display: 
+}
+.circle{
+	width:200px;
+	height:200px;
+	border-radius:100%;
+	background:#00e6e6;/*darkaqua*/
+	display: inline-block;
+	box-shadow: 0px 0px 15px black;
+}
+.icons{
+	text-align: center; 
+	padding-top: 60px;
+	color:#f5f9f9;/*white*/
+	text-shadow: 10px 10px 20px grey;
+}
+.text{
+	font-family: tahoma;
+	font-size: 20px;
+	letter-spacing: 2px;
+	color: black;
+	text-align: center;
+}
+
+.border{
+	border:1px solid black;
+}
+
+
+#header{
+	height: 700px;
+	background: url(img/hero-bg.jpg) no-repeat center center;
+	background-attachment: fixed;
+}
+#first{
+	height: 100px;
+	margin-top: 200px;
+	color: #000000;/*Black*/
+	text-align: center;
+	font-family: Monaco, monospace;
+	font-size: 50px;
+	letter-spacing: 5px;
+}
+#first span{
+	color: #d5dcdd;/*lightgrey*/
+}
+#second{
+	height: 100px;
+	color: #000000;/*Black*/
+	text-align: center;
+	font-family: Monaco, monospace;
+	font-size: 15px;
+	letter-spacing: 2px;
+}
+#second span{
+	color: #d5dcdd;/*lightgrey*/
+
+}
+#third{
+	width: 250px;
+	height: 50px;
+	margin: 0 auto;
+	color: white;
+	font-family: tahoma;
+	font-size: 15px;
+	letter-spacing: 5px;
+	text-align: center;
+	padding: 14px;
+	background-color: #00e6e6;/*darkaqua*/
+	box-shadow: 0px 0px 15px black;
+	border-radius: 10%;
+}
+
+/* PORTFOLIO TEMPLATE*/
+#portfolio{
+	background:#eff0f4;
+}
+#col6{
+	height: 200px;
+}
+/* LOVE WHAT YOU WANT*/
+
+#digWebCreCircle div{
+	height: 200px;
+	text-align: center;
+}
+#digWebCreText{
+	height: 50px;
+}
+#digWebCreText div h4{
+	font-family: tahoma;
+	text-align: center;
+}
+#digWebCreDash{
+	height: 20px;
+}
+#digWebCreDash div i{
+	color: aqua;
+	margin-left: 47%;
+}
+#digWebCreLorem div p{
+	text-align: center;
+	color: grey;
+}
+#mobile{
+	width: 100%;
+	height: 500px;
+	background:url(img/iphone-bg.png)no-repeat;
+	background-position: 100px 0;
+	background-size: contain;
+}
+
+#whiteSide{
+	height: 500px;
+	width: 55%;
+	float: right;
+	background:#ffffff;/*white*/
+	box-shadow: -20px 0px 10px -20px black;
+}
+
+#mobileTitle h4{
+	font-family: tahoma;
+	text-align: center;
+	margin-top: 100px;
+}
+#mobileLorem{
+	width: 50%;
+	text-align: center;
+	margin: 50px auto;
+	color: grey;
+}
+/* PROBLEMS*/
+
+#problems{
+	height: 300px;
+	background: url(img/plants-bg.jpg) no-repeat center center;
+	background-attachment: fixed;
+
+}
+#problems h1, h2{
+	font-family: tahoma;
+	text-align: center;
+	color: white;
+	margin-top: 50px;
+}
+#creative{
+	height:400px;
+}
+#creative1 div{
+	height: 300px;
+	width: 100%;
+	border:1px solid black;
+	float: right;
+	margin-top: 50px;
+	background: url(img/portfolio-01.jpg) no-repeat center center;
+	background-size: cover;
+}
+#creative2 div{
+	height: 300px;
+	width: 100%;
+	border:1px solid black;
+	margin: 50px auto;
+	background: url(img/portfolio-02.jpg) no-repeat center center;
+	background-size: cover;
+}
+#creative3 div{
+	height: 300px;
+	width: 100%;
+	border:1px solid black;
+	margin-top: 50px;
+	float: left;
+	background: url(img/portfolio-03.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+#miheid{
+	height: 50px;
+}
+#miheid div h4{
+	font-family: tahoma;
+	text-align: center;
+	}
+/*________________Почему не могу все центровать?____________________*/
+
+#miheidDash div i{
+	height: 20px;
+	color: aqua;
+	margin-left: 47%;
+}
+#lorem1{
+	text-align: center;
+	color: grey;
+}
+#lorem2{
+	text-align: center;
+	color: grey;
+}
+#lorem3{
+	text-align: center;
+	color: grey;
+}
+
+#preFooter{
+	height:200px;
+	background:#000d1a; /*black/blue)*/
+}
+#preFooter div{
+	height: 50px;
+	width:20%;
+	border: 1px solid white;
+	margin: 70px auto;
+}
+/*WE'RE A TEAM THAT ADORE WHAT WE DO*/
+#team{
+	height: 220px;
+}
+#jon div{
+	width: 200px;
+	height: 200px;
+	margin: 10px auto;
+	background: url(img/team-01.png) no-repeat center center;
+	background-size: cover;
+}
+#cersei div{
+	width: 200px;
+	height: 200px;
+	margin: 10px auto;
+	background: url(img/team-02.png) no-repeat center center;
+	background-size: cover;
+}
+#jamie div{
+	width: 200px;
+	height: 200px;
+	margin: 10px auto;
+	background: url(img/team-03.png) no-repeat center center;
+	background-size: cover;
+}
+#teamDash div i{
+	height: 20px;
+	margin-left: 47%;
+}
+#loop{
+	height: 600px;
+	background: url(img/keyboard-bg.jpg) no-repeat center center fixed;
+
+}
+
+#row1{
+	margin-top: 300px;
+	font-family: tahoma;
+	text-align: center;
+	color: white;
+}
+#row2{
+	height: 50px;
+	width:20%;
+	border: 3px solid white;
+	margin: 0px auto;
+	}
+	/*DROP US A LINE*/
+
+#drop{
+	margin-top: 100px;
+}
+#dropLine{
+	height: 300px;
+	background:#eff0f4;
+}
+#address{
+	width: 400px;
+	height: 200px;
+	margin: 10px auto;
+	background:white;
+}
+#phone{
+	width: 400px;
+	height: 200px;
+	margin: 10px auto;
+	background:white;
+}
+#email{
+	width: 400px;
+	height: 200px;
+	margin: 10px auto;
+	background:white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
